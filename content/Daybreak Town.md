@@ -16,11 +16,11 @@ An extremely well-protected treasure and governing force of Daybreak Town is the
 These five competing factions make up the heart of Daybreak Town's society. Though they cooperate to ensure the town's overall well-being, each works towards achieving their own ideal vision of the [[Grand Prosperity]], and so they uphold differing values, sometimes even conflicting with those of the other Unions. At the head of each Union is their [[Foreteller]], a [[Keyblade]] Master who champions the same values as their Union. Each citizen is required to register as a member of a Union. Those that do not are treated as outsiders and are generally shunned by the rest of the townspeople.
 
 The five Unions are:
-- [[Anguis]], led by [[Foreteller Invi]] champions knowledge and discovery
-- [[Leopardos]], led by [[Foreteller Gula]] champions nature and community 
-- [[Unicornis]], led by [[Foreteller Ira]] champions determination and courage  
-- [[Ursus]], led by [[Foreteller Aced]] champions fortitude and order 
-- [[Vulpes]], led by [[Foreteller Ava]] champions freedom and flexibility
+- [[Anguis]], championing knowledge and discovery
+- [[Leopardos]], championing equality and community 
+- [[Unicornis]], championing determination and courage  
+- [[Ursus]], championing fortitude and order 
+- [[Vulpes]], championing freedom and flexibility
 ## The Fight Against Darkness
 Though some of their goals may differ, each Union is entrusted with a common duty, to combat the forces of darkness that would encroach upon and disrupt the balance of the world. The main method of choice for accomplishing this feat is the vanquishing of [[Heartless]], malicious beings born from negative emotions that coalesce and soldiify into coorporeal form within the Shadowfell. Defeated Heartless leave behind a shining, crystaline substance called [[Lux]] that is gathered as a resource to be used by the town. The amount of Lux a Union collectively gathers also plays an important part in determining their social standing. Every three months, a [[Ranking Ceremony]] is held to crown the Unions that have collected the most Lux during the Ranking Period. Unions that achieve a high Ranking receive special benefits such as access to high-end facilities and increased political influence for the duration of the following Ranking Period.
 ## The Keyblade
