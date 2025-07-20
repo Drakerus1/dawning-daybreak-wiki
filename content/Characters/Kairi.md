@@ -3,7 +3,7 @@ title: Kairi
 draft: false
 tags:
 ---
-![[kairi-young.webp]]
+![[kairi-young.webp|800]]
 
 A 12-year old girl who lives with her grandmother, [[Shimako]] in Daybreak Town. Due to her status as a [[Princess of Heart]], she lives a mostly isolated life at home. Because of this, she has a keen fondness for the beauty of nature, flling her grandmother's modest home with drawings of flowers and animals of all sorts, while impatiently waiting for her sister, [[The Wanderer]] to visit with souvenirs from her adventures.
 # Notes

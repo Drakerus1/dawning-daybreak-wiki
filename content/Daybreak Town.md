@@ -3,7 +3,7 @@ title: Daybreak Town - An Overview
 draft: false
 tags:
 ---
-![[Daybreak Town Overview.webp]]
+![[Daybreak Town Overview.webp|800]]
 
 Hidden within the Astral Sea, there exists a town governed by five cooperating factions, each led by a [[Foreteller]] entrusted with a unique role to secure the [[Grand Prosperity]] outlined in the [[Book of Prophecies]].
 ## Geography and Structure
