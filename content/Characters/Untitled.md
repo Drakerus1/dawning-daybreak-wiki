@@ -1,6 +1,7 @@
 ---
 tags:
-- character
+  - character
+draft: false
 ---
 > [!infobox]
 > # `Kairi`
