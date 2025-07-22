@@ -4,3 +4,5 @@ draft: true
 tags: 
 aliases:
 ---
+
+A stoic woman who had 
