@@ -10,27 +10,27 @@ To use a template, simply create a note and title it appropriately, and then ins
 
 # Table of Contents
 %% Begin Waypoint %%
-- **[[Categories]]**
+- **Categories**
 	- [[Folder Note Template]]
-- **[[Characters]]**
+- **Characters**
 	- [[Character- God]]
 	- [[Character- Royalty]]
 	- [[Character]]
-- **[[Events]]**
+- **Events**
 	- [[Event]]
-- **[[Groups]]**
+- **Groups**
 	- [[Group- Combat]]
 	- [[Group- Commercial]]
 	- [[Group- General]]
 	- [[Group- Political]]
 	- [[Group- Population]]
 	- [[Group- Religious]]
-- **[[Life]]**
+- **Life**
 	- [[Life- Animal]]
 	- [[Life- Humanoid]]
 	- [[Life- Magical]]
 	- [[Life- Plant]]
-- **[[Location]]**
+- **Location**
 	- [[Location- Cosmology]]
 	- [[Location- Dungeon]]
 	- [[Location- Establishment]]
@@ -39,7 +39,7 @@ To use a template, simply create a note and title it appropriately, and then ins
 	- [[Location- Natural]]
 	- [[Location- Region]]
 	- [[Location- Settlement]]
-- **[[Material]]**
+- **Material**
 	- [[Material- Afflictions]]
 	- [[Material- Crop]]
 	- [[Material- Currency]]
@@ -50,9 +50,9 @@ To use a template, simply create a note and title it appropriately, and then ins
 	- [[Material- Object]]
 	- [[Material- Resource]]
 	- [[Material- Weather]]
-- **[[Narrative]]**
+- **Narrative**
 	- [[Session Note]]
-- **[[Society]]**
+- **Society**
 	- [[Society- Art]]
 	- [[Society- Customs]]
 	- [[Society- Economics]]
@@ -63,7 +63,7 @@ To use a template, simply create a note and title it appropriately, and then ins
 	- [[Society- Lore]]
 	- [[Society- Occupation]]
 	- [[Society- Religion]]
-- **[[Technology]]**
+- **Technology**
 	- [[Tech- Administrative]]
 	- [[Tech- Agricultural]]
 	- [[Tech- Communication]]

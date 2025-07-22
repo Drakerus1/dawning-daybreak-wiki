@@ -14,7 +14,7 @@ The documentation folder exists to outline useful tips for managing and using th
 - [[02- Best Practices]]
 - [[03- Community Plugins]]
 - [[04- Git and Obsidian]]
-- **[[Images]]**
+- **Images**
 
 
 %% End Waypoint %%
