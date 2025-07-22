@@ -101,7 +101,7 @@ However...
 - [[Kairi]]
 - [[Master of Masters]]
 - [[Shimako]]
-- [[Test Push2]]
+- [[Test Push3]]
 - [[The Wanderer]]
 
 %% End Waypoint %%

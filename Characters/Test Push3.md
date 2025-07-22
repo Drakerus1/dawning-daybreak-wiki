@@ -5,7 +5,7 @@ draft: false
 ---
 > [!infobox]
 > # `Kairi`
-> ![[kairi-young.jpg|200]]
+> ![[kairi-young.webp|200]]
 > ###### About
 > | Titles | None |
 > | ---- | ---- |
